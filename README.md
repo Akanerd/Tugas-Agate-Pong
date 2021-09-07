@@ -3,7 +3,7 @@
 Berikut ini merupakan kumpulan repository Tugas Agate game Development Bootcamp :
 1. Game Pong
 
-![bukti2](https://user-images.githubusercontent.com/85096618/132326127-a8ade628-856a-4312-bd56-1b9e4d3973bf.png)
+![bukti2](https://user-images.githubusercontent.com/85096618/132326259-71b10bd9-6366-444b-9084-dcf598e6d64d.png)
 
 Input Player 1 : W ==> atas & S ==> bawah
 
