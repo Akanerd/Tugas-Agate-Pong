@@ -1,7 +1,7 @@
 # Tugas-Agate-kampus-Merdeka
 
 Berikut ini merupakan repository Tugas Agate game Development Bootcamp Bagian Pong :
-1. Game Pong
+## Game Pong
 
 ![bukti2](https://user-images.githubusercontent.com/85096618/132326259-71b10bd9-6366-444b-9084-dcf598e6d64d.png)
 
